@@ -1,4 +1,4 @@
-#Wed Jul 22 13:32:26 EDT 2020
+#Wed Jul 22 13:58:14 EDT 2020
 base.0=C\:\\Users\\v-garyr\\Documents\\RobinsonTech\\VR\\Gestures-Quest\\Gestures-Quest\\Gestures-Quest\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
 path.0=classes.dex
 renamed.0=classes.dex
